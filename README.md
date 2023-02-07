@@ -8,8 +8,6 @@ If you want to run this app and debug into your target device run the following 
 
 3.) then run npm install command to install node-modules since it's a javascript framework
 
-4.)After success generation android and ios files and installing native dependencies, you can do the final command to run.
-       npx react-native run-android (obviously for android).
-       npx react-native run-ios (obviously for ios)
-       
-4.) Also please run this command npx react-native start too 
+4.)After success generation android and ios files and installing native dependencies, you can do the final command to run. npx react-native run-android (obviously for android). npx react-native run-ios (obviously for ios)
+
+4.) Also please run this command npx react-native start too alonside.(I tell you to frist execute npx react-native start command first and then later execute npx react-native run-android or ios alongside either in two terminals or in side by side by side terminals in your Code Editor or in your IDE)
